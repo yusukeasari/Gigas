@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "gigas-a7c01",
+    "production": "gigas-a7c01"
+  }
+}
