@@ -5,5 +5,6 @@ import store from './store'
 import { firestorePlugin } from 'vuefire'
 
 createApp(App)
+.use(router)
 .use(firestorePlugin)
 .mount('#app')
